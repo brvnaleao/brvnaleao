@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-### Olá, pessoas! 👋
+
 ![about-me](https://github.com/brvnaleao/brvnaleao/blob/master/2.png)
+
+### Olá, pessoas! 👋
 - 🔭 Trabalho na First Decision
 - 🌱 Atualmente estou estudando Kotlin!
 - 👯 Sou apaixonada por JavaScript
