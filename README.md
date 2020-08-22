@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Atualmente eu trabalho na First Decision
-- 🌱 Estou estudando Kotlin!
+- 🔭 Trabalho na First Decision
+- 🌱 Atualmente estou estudando Kotlin!
 - 👯 Sou apaixonada por JavaScript
 <!--
 - 🤔 I’m looking for help with ...
