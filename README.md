@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 ![about-me](https://github.com/brvnaleao/brvnaleao/blob/master/2.png)
 
 ### Olá, pessoas! 👋
-- 🔭 Sou desenvolvedora web e trabalho na First Decision
-- ⚡ Interesses: JavaScript, Node.js, React, UI5 e Python 
+- 🔭 Sou desenvolvedora web e trabalho na First Decision!
+- ⚡ Interesses: JavaScript, Node.js, React, VueJS e Python.
 - 🌱 Atualmente estou estudando desenvolvimento mobile com Kotlin!
 
 <!--
