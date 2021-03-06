@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 
 
 ### Olá, pessoas! 👋
-- 🔭 Atuo como desenvolvedora web!
-- ⚡ Interesses: JavaScript, Node.js, React, VueJS e Python.
-- 🌱 Atualmente estou estudando desenvolvimento mobile com Kotlin!
+- 🔭 Atuo como desenvolvedora full-stack!
+- ⚡ Interesses: JavaScript, Node.js, React, VueJS e Elixir.
 
 <!--
 - 👯 Sou apaixonada por JavaScript!
