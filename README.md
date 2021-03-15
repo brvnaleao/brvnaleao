@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 -->
 
 
-### Olá, pessoas! 👋
-- 🔭 Atuo como desenvolvedora full-stack!
-- ⚡ Interesses: JavaScript, Node.js, React, VueJS e Elixir.
+### Hey! 👋
+- 🔭 I'm a Full-Stack Developer!
+- ⚡ Interests: JavaScript, Node.js, React and VueJS.
+- 💜 Currently learning Elixir and loving it!
 
 <!--
 - 👯 Sou apaixonada por JavaScript!
