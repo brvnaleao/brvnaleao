@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### Hey! 👋
 - 🔭 I'm a Full-Stack Developer!
-- ⚡ Interests: JavaScript, Node.js, React and VueJS.
+- ⚡ Interests: JavaScript, Node.js, React and Vue.
 - 💜 Currently learning Elixir and loving it!
 
 <!--
