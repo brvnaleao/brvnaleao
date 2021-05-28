@@ -7,6 +7,8 @@
 - ⚡ Interests: Elixir, JavaScript and Python.
 - 🤓 I'm currently studying more about functional programming.
 - 💜 I love learning new things!
+- 🍃 Fun facts: I love hiking and yoga
+
 
 <br><br><br>
 
