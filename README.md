@@ -9,20 +9,13 @@ Here are some ideas to get you started:
 ![about-me](https://github.com/brvnaleao/brvnaleao/blob/master/2.png)
 
 -->
-
+[![Linkedin Badge](https://img.shields.io/badge/-Bruna%20Le%C3%A3o-4da3a3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-le%C3%A3o-b17350169/)](https://www.linkedin.com/in/bruna-leão-b17350169/) 
 
 ### Hey! 👋
-- 🔭 I'm a Full-Stack Developer!
-- ⚡ Interests: JavaScript, Node.js, React and Vue.
-- 💜 Currently learning Elixir and loving it!
+- 🔭 I'm a Back-end Developer!
+- ⚡ Interests: Elixir, JavaScript and Python.
+- 💜 I love learning new things
 
-<!--
-- 👯 Sou apaixonada por JavaScript!
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--...
--->
 <br>
 
 
