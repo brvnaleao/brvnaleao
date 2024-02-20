@@ -4,7 +4,7 @@
 
 ### Hey, there! 👋
 - 🔭 I'm a Back-end Developer!
-- ⚡ Interests: Elixir, JavaScript and Python.
+- ⚡ Interests: Elixir and Golang.
 - 🤓 I'm currently studying more about functional programming.
 - 💜 I love learning new things!
 - 🍃 Fun facts: I love hiking and yoga
